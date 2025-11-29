@@ -7,7 +7,7 @@ VidSynth is a Chrome extension that summarizes a YouTube video **and** its comme
 ## Features
 
 - One-click summarization from the extension popup.
-- Works on YouTube video pages (URLs containing `?v=...`).
+- Works on YouTube video pages (URLs containing `....`).
 - Sends the current video’s ID to a local API endpoint.
 - Displays both:
   - **Video Summary**
